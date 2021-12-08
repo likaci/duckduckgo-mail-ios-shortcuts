@@ -12,3 +12,5 @@ just Inspect chrome-extension://bkdgflcldnnnapblkhphbgpggdiikppg/_generated_back
 5. DevTools -> Network Tab
 6. Click "Create New Duck Address" and you'll see an "address" request, in the "Request Headers" the "authorization: Bearer zkuxxxxxxxxxxxxx" is your token
 7. Paste Bearer zkuxxxxxxxxxxxxx to your Shortcuts
+
+https://www.youtube.com/watch?v=rOtUIkQoKL0
