@@ -1,4 +1,6 @@
 # duckduckgo-mail-ios-shortcuts
+![](https://github.com/likaci/duckduckgo-mail-ios-shortcuts/raw/master/demo.gif)
+
 
 ## Shortcuts
 https://www.icloud.com/shortcuts/3a20ed932f3a4fb9a2939df923774990
